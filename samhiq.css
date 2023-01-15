@@ -25,10 +25,10 @@ a {
 
 
 a:hover {
-	      color: #111;
-	      background: #0888cd;
-	      box-shadow: 0 0 50px #0575bf;
-          border-radius: 50px;
+	   color: #111;
+	    background: #0888cd;
+	    box-shadow: 0 0 50px #0575bf;
+            border-radius: 50px;
 }
 
 
